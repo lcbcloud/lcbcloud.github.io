@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'Breda Two Extra';
+    src: url('BredaTwo-ExtraBold.eot');
+    src: local('Breda Two Extra Bold'), local('BredaTwo-ExtraBold'),
+        url('BredaTwo-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('BredaTwo-ExtraBold.woff2') format('woff2'),
+        url('BredaTwo-ExtraBold.woff') format('woff'),
+        url('BredaTwo-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Breda Two';
+    src: url('BredaTwo-Italic.eot');
+    src: local('Breda Two Italic'), local('BredaTwo-Italic'),
+        url('BredaTwo-Italic.eot?#iefix') format('embedded-opentype'),
+        url('BredaTwo-Italic.woff2') format('woff2'),
+        url('BredaTwo-Italic.woff') format('woff'),
+        url('BredaTwo-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Breda Two';
+    src: url('BredaTwo-Light.eot');
+    src: local('Breda Two Light'), local('BredaTwo-Light'),
+        url('BredaTwo-Light.eot?#iefix') format('embedded-opentype'),
+        url('BredaTwo-Light.woff2') format('woff2'),
+        url('BredaTwo-Light.woff') format('woff'),
+        url('BredaTwo-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Breda Two';
+    src: url('BredaTwo-Bold.eot');
+    src: local('Breda Two Bold'), local('BredaTwo-Bold'),
+        url('BredaTwo-Bold.eot?#iefix') format('embedded-opentype'),
+        url('BredaTwo-Bold.woff2') format('woff2'),
+        url('BredaTwo-Bold.woff') format('woff'),
+        url('BredaTwo-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Breda Two';
+    src: url('BredaTwo.eot');
+    src: local('Breda Two'), local('BredaTwo'),
+        url('BredaTwo.eot?#iefix') format('embedded-opentype'),
+        url('BredaTwo.woff2') format('woff2'),
+        url('BredaTwo.woff') format('woff'),
+        url('BredaTwo.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Breda Two';
+    src: url('BredaTwo-BoldItalic.eot');
+    src: local('Breda Two Bold Italic'), local('BredaTwo-BoldItalic'),
+        url('BredaTwo-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('BredaTwo-BoldItalic.woff2') format('woff2'),
+        url('BredaTwo-BoldItalic.woff') format('woff'),
+        url('BredaTwo-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
